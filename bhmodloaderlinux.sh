@@ -2,7 +2,9 @@
 #Debian
 sudo apt install wget
 #Arch
-sudo pacman -S wget
+sudo pacman -S wget --noconfirm
+#Fedora
+sudo dnf install wget
 echo "Make sure you have wget,tar Steam & Proton 9.0 installed."
 echo "Make sure you've launched Brawlhalla from Steam at least once."
 echo "Make sure you have Proton 9.0 installed to your main drive, if not edit the script!"
@@ -39,5 +41,5 @@ sh /home/$USER/Downloads/desktop1.sh
 #Desktop2
 #echo "Exec=WINEPREFIX=/home/$USER/.steam/steam/steamapps/compatdata/291550/pfx "/home/$USER/protonwinebhml/wine-9.6-amd64/bin/wine" "/home/$USER/.wine/drive_c/users/twig/AppData/Roaming/BModloader/ModLoaderClient.exe %u"" >> modloader.desktop
 
+#Don't forget to mark the script as executable
 #If you experience any issues add me on discord. My discord is twig6843
-
