@@ -68,7 +68,7 @@ wget https://github.com/Twig6943/BhModloaderLinux/blob/main/mh.jpg?raw=true -O "
 wget https://github.com/Twig6943/BhModloaderLinux/blob/main/modloaderclient.png?raw=true -O "/home/$USER/.local/share/applications/modloaderclient.png"
 wget https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u412-b08/openlogic-openjdk-8u412-b08-windows-x64.msi -O "/home/$USER/Downloads/ojdk.msi"
 wget https://github.com/Kron4ek/Wine-Builds/releases/download/9.6/wine-9.6-amd64.tar.xz -O "/home/$USER/protonwinebhml/wine-9.6-amd64.tar.xz"
-wget https://raw.githubusercontent.com/Twig6943/BhModloaderLinux/main/desktop1.sh -O "/home/$USER/Downloads/desktop1.sh"
+wget https://raw.githubusercontent.com/Twig6943/BhModloaderLinux/main/desktop2.sh -O "/home/$USER/Downloads/desktop1.sh"
 
 echo "Extracting Wine archive..."
 tar -xvf "/home/$USER/protonwinebhml/wine-9.6-amd64.tar.xz" -C "/home/$USER/protonwinebhml"
