@@ -78,7 +78,7 @@ echo "Installing OpenJDK via Wine..."
 WINEPREFIX="/home/$USER/.steam/steam/steamapps/compatdata/291550/pfx" "/home/$USER/protonwinebhml/wine-9.6-amd64/bin/wine" "/home/$USER/Downloads/ojdk.msi"
 
 echo "Launching Brawlhalla Mod Loader (close it if it doesn't work)..."
-WINEPREFIX="/home/$USER/.steam/steam/steamapps/compatdata/291550/pfx" "/home/$USER/protonwinebhml/wine-9.6-amd64/bin/wine" "/home/$USER/.steam/steam/steamapps/compatdata/291550/drive_c/ProgramData/BrawlhallaModLoader/bhmc.exe"
+WINEPREFIX="/home/$USER/.steam/steam/steamapps/compatdata/291550/pfx" "/home/$USER/protonwinebhml/wine-9.6-amd64/bin/wine" "/home/$USER/.steam/steam/steamapps/compatdata/291550/drive_c/ProgramData/BrawlhallaModCreator/bhmc.exe"
 
 # Make the desktop1.sh an executable
 chmod +x "/home/$USER/Downloads/desktop2.sh"
