@@ -10,3 +10,7 @@ cd BhModloaderLinux
 chmod +x bhmodloaderlinux.sh
 
 ./bhmodloaderlinux.sh
+
+Create an issue if you're having any!
+
+or add me on discord my discord is twig6843
