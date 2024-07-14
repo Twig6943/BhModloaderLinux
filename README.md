@@ -13,3 +13,5 @@ chmod +x bhmodloaderlinux.sh
 Create an issue if you're having any!
 
 or add me on discord my discord is twig6843
+
+(Also you can use smartsprite without wine using the .jar if you're modding on linux)
