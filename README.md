@@ -14,4 +14,4 @@ Create an issue if you're having any!
 
 or add me on discord my discord is twig6843
 
-(Also you can use smartsprite without wine using the .jar if you're modding on linux)
+(Also you can use smartsprite without wine using the .jar if you're modding on linux which can be found here: https://github.com/Epicsninja/BrawlhallaModTools/releases)
