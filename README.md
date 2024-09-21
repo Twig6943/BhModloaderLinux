@@ -1,5 +1,6 @@
-# BhModloaderLinux
 # PLEASE FOR THE LOVE OF GOD USE A WINE MANAGER LIKE HEROIC GAMES LAUNCHER AND MAKE IT USE THE SAME PFX AS BRAWLHALLA INSTEAD OF USING THIS JANKY ASS SCRIPT (THIS IS BETTER IN EVERY WAY)
+# BhModloaderLinux
+
 This script is really bad ik but it works, at least it should.
 
 #How 2 use
